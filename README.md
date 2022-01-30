@@ -6,7 +6,7 @@ This analysis creates a blockchain-based ledger system with a user-friendly web 
 
 ## Technologies
 
-The application is written in Python 3.7 in a Jupyter notebook with support from the following packages:  
+The application is written in Python 3.7 with support from the following packages:  
 
 *[Pandas] (https://github.com/pandas) - Data Analysis
 
@@ -29,8 +29,16 @@ To see the analysis, pls clone the repository and run **pychain.py**.
 
 Here are some images from the Streamlit web interface for the ledger and validation.
 
+Inspector:
+
 ![BlockChain Inspector](Images/BlockChainInspector.PNG)
+
+Example of Blocks: 
+
 ![PyChain Ledger](Images/PyChainLedger.PNG)
+
+Blockchain Validity:
+
 ![Validation](Images/Validation.PNG)
 
 ## Contributors
