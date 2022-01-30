@@ -1,4 +1,4 @@
-# CFB_Mod18_Challenge: Blockchain-based Ledger
+# CFB Mod18 Challenge: Blockchain-based Ledger
 
 This analysis creates a blockchain-based ledger system with a user-friendly web interface designed with Streamlit.  
 
@@ -10,9 +10,9 @@ The application is written in Python 3.7 with support from the following package
 
 *[Pandas] (https://github.com/pandas) - Data Analysis
 
-*[SKLearn] (https://github.com/scikit-learn) - Advanced Data Anaylsis and Machine Learning: KMeans / PCA / StandardScaler
+*[DataClasses] (https://github.com/dataclasses) - DataClasses 
 
-*[Path] (https://github.com/path) - CSV File Reading
+*[HashLib] (https://github.com/hashlib) - Hashing
 
 *[Streamlit] (https://github.com/streamlit) - Web Interface
 
