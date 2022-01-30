@@ -19,9 +19,7 @@ The application is written in Python 3.7 with support from the following package
 
 ## Installation Guide
 
-Install hvPlot through the command **conda install -c pyviz hvplot**
-
-Install scikit-learn through command **pip install -U scikit-learn**
+Install streamlit through the command **pip install streamlit**
 
 ## Usage and Content
 
