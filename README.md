@@ -1,6 +1,6 @@
 # CFB Mod18 Challenge: Blockchain-based Ledger
 
-This analysis creates a blockchain-based ledger system with a user-friendly web interface designed with Streamlit.  
+This exercise creates a blockchain-based ledger system with a user-friendly web interface designed through Streamlit.  
 
 ---
 
